@@ -1,0 +1,537 @@
+msPlayed
+danceability
+energy
+key
+loudness
+mode
+speechiness
+acousticness
+instrumentalness
+liveness
+valence
+tempo
+duration_ms
+time_signature
+duration_sec
+genre_abstract
+genre_abstract beats
+genre_abstract hip hop
+genre_acoustic opm
+genre_acoustic pop
+genre_adult standards
+genre_aesthetic rap
+genre_afghan pop
+genre_afrobeats
+genre_afrofuturism
+genre_aggressive phonk
+genre_alabama indie
+genre_alabama rap
+genre_alaska indie
+genre_album rock
+genre_alt z
+genre_alternative americana
+genre_alternative dance
+genre_alternative hip hop
+genre_alternative metal
+genre_alternative pop rock
+genre_alternative r&b
+genre_alternative rock
+genre_ambient folk
+genre_ambient guitar
+genre_ambient lo-fi
+genre_ambient pop
+genre_ambient worship
+genre_american modern classical
+genre_american orchestra
+genre_anime
+genre_anime latino
+genre_anime lo-fi
+genre_anime phonk
+genre_anime piano
+genre_anime rock
+genre_anime score
+genre_ann arbor indie
+genre_anthem worship
+genre_antiviral pop
+genre_arab electronic
+genre_arab trap
+genre_argentine ambient
+genre_arkansas country
+genre_armenian hip hop
+genre_art pop
+genre_asian american hip hop
+genre_assamese pop
+genre_atl hip hop
+genre_atmospheric dnb
+genre_aussietronica
+genre_austin rock
+genre_austindie
+genre_australian alternative pop
+genre_australian dance
+genre_australian electropop
+genre_australian hip hop
+genre_australian indie
+genre_australian pop
+genre_australian psych
+genre_australian r&b
+genre_australian rock
+genre_australian singer-songwriter
+genre_ballet class
+genre_barbadian pop
+genre_baroque
+genre_baroque pop
+genre_bass house
+genre_bass trap
+genre_bc underground hip hop
+genre_bedroom pop
+genre_bedroom r&b
+genre_bedroom soul
+genre_belgian dance
+genre_belgian edm
+genre_belgian indie
+genre_belgian pop
+genre_belgian rock
+genre_bhajan
+genre_bhangra
+genre_bhojpuri pop
+genre_big room
+genre_black americana
+genre_blues
+genre_blues rock
+genre_bossbeat
+genre_bow pop
+genre_boy band
+genre_boy pop
+genre_brazilian bass
+genre_brazilian edm
+genre_brazilian house
+genre_brighton indie
+genre_britcore
+genre_british alternative rock
+genre_british indie rock
+genre_british modern classical
+genre_british orchestra
+genre_british singer-songwriter
+genre_british soul
+genre_british soundtrack
+genre_broadway
+genre_brooklyn drill
+genre_brooklyn indie
+genre_brostep
+genre_bubblegum dance
+genre_cali rap
+genre_calming instrumental
+genre_canadian celtic
+genre_canadian contemporary r&b
+genre_canadian electronic
+genre_canadian hip hop
+genre_canadian latin
+genre_canadian old school hip hop
+genre_canadian pop
+genre_canadian singer-songwriter
+genre_candy pop
+genre_cantopop
+genre_ccm
+genre_cedm
+genre_celtic rock
+genre_chamber pop
+genre_chamber psych
+genre_channel pop
+genre_chanson
+genre_chennai indie
+genre_chicago house
+genre_chicago indie
+genre_chicago rap
+genre_children's folk
+genre_chill baile
+genre_chill house
+genre_chill out
+genre_chill phonk
+genre_chill pop
+genre_chill r&b
+genre_chillhop
+genre_chillstep
+genre_chillwave
+genre_chinese classical performance
+genre_chinese electropop
+genre_chinese idol pop
+genre_chinese viral pop
+genre_chiptune
+genre_christian alternative rock
+genre_christian hip hop
+genre_christian lo-fi
+genre_christian rock
+genre_chutney
+genre_cincinnati indie
+genre_cinematic dubstep
+genre_city pop
+genre_classic bhangra
+genre_classic bollywood
+genre_classic country pop
+genre_classic pakistani pop
+genre_classic progressive house
+genre_classic rock
+genre_classic soul
+genre_classic swedish pop
+genre_classic texas country
+genre_classic uk pop
+genre_classical
+genre_classical performance
+genre_cleveland indie
+genre_cloud rap
+genre_colombian pop
+genre_comic
+genre_complextro
+genre_compositional ambient
+genre_conscious hip hop
+genre_contemporary country
+genre_contemporary r&b
+genre_country
+genre_covertronica
+genre_cumbia
+genre_cyberpunk
+genre_dance pop
+genre_dance rock
+genre_dancefloor dnb
+genre_danish electronic
+genre_danish electropop
+genre_danish pop
+genre_dark clubbing
+genre_dark plugg
+genre_dark pop
+genre_dark r&b
+genre_dark trap
+genre_death metal
+genre_deep tropical house
+genre_deep underground hip hop
+genre_denpa-kei
+genre_desi hip hop
+genre_desi pop
+genre_detroit hip hop
+genre_detroit indie
+genre_dfw rap
+genre_disco
+genre_disco house
+genre_diva house
+genre_dmv rap
+genre_downtempo
+genre_dreamo
+genre_drift phonk
+genre_dutch edm
+genre_dutch house
+genre_dutch indie
+genre_dutch pop
+genre_east coast hip hop
+genre_easy listening
+genre_edm
+genre_electra
+genre_electro
+genre_electro house
+genre_electro-pop francais
+genre_electroclash
+genre_electronica
+genre_electropop
+genre_emo
+genre_emo rap
+genre_english indie rock
+genre_epicore
+genre_erhu
+genre_escape room
+genre_estonian electronic
+genre_ethereal wave
+genre_eurobeat
+genre_eurodance
+genre_europop
+genre_experimental pop
+genre_filmi
+genre_filter house
+genre_fingerstyle
+genre_finnish alternative rock
+genre_florida drill
+genre_focus beats
+genre_folk-pop
+genre_folktronica
+genre_freeform hardcore
+genre_french hip hop
+genre_french indie pop
+genre_french pop
+genre_french psychedelic
+genre_french shoegaze
+genre_funk
+genre_funk carioca
+genre_funk metal
+genre_future bass
+genre_future rock
+genre_g funk
+genre_g-house
+genre_gambian hip hop
+genre_game mood
+genre_gaming edm
+genre_gangster rap
+genre_garage rock
+genre_garage rock revival
+genre_gauze pop
+genre_gen z singer-songwriter
+genre_german dance
+genre_german pop
+genre_german pop rock
+genre_german soundtrack
+genre_girl group
+genre_glam metal
+genre_glam rock
+genre_glitch
+genre_glitch hop
+genre_glitchcore
+genre_gregorian dance
+genre_grunge
+genre_guitar case
+genre_gujarati pop
+genre_gym phonk
+genre_hands up
+genre_hard bass
+genre_hard rock
+genre_hare krishna
+genre_hawaiian
+genre_hawaiian hip hop
+genre_hi-nrg
+genre_himachali pop
+genre_hindi indie
+genre_hip hop
+genre_hip pop
+genre_hmong pop
+genre_hollywood
+genre_hopebeat
+genre_house
+genre_hungarian classical performance
+genre_hyperpop
+genre_hypnagogic pop
+genre_icelandic indie
+genre_indian indie
+genre_indian lo-fi
+genre_indie anthem-folk
+genre_indie electropop
+genre_indie emo
+genre_indie folk
+genre_indie game soundtrack
+genre_indie garage rock
+genre_indie pop
+genre_indie pop rap
+genre_indie poptimism
+genre_indie r&b
+genre_indie rock
+genre_indie rock italiano
+genre_indie rockism
+genre_indie soul
+genre_indie viet
+genre_indiecoustica
+genre_indietronica
+genre_indonesian lo-fi pop
+genre_indonesian r&b
+genre_indonesian singer-songwriter
+genre_industrial pop
+genre_instrumental grime
+genre_instrumental math rock
+genre_instrumental post-rock
+genre_irish pop
+genre_irish rock
+genre_irish singer-songwriter
+genre_israeli mediterranean
+genre_israeli pop
+genre_italian indie pop
+genre_italian library music
+genre_j-acoustic
+genre_j-ambient
+genre_j-idol
+genre_j-pop
+genre_j-pop boy group
+genre_j-pop girl group
+genre_j-poprock
+genre_j-rock
+genre_japanese alternative pop
+genre_japanese alternative rock
+genre_japanese chillhop
+genre_japanese dance pop
+genre_japanese dub
+genre_japanese old school hip hop
+genre_japanese piano
+genre_japanese teen pop
+genre_japanese vgm
+genre_jazz cover
+genre_jazz rap
+genre_josei rap
+genre_k-pop
+genre_k-pop girl group
+genre_k-rap
+genre_kazakh pop
+genre_korean electropop
+genre_korean pop
+genre_korean r&b
+genre_la indie
+genre_la pop
+genre_latin hip hop
+genre_latin pop
+genre_leeds indie
+genre_lgbtq+ hip hop
+genre_lilith
+genre_liquid funk
+genre_lithuanian electronic
+genre_lo-fi beats
+genre_lo-fi brasileiro
+genre_lo-fi chill
+genre_lo-fi cover
+genre_lo-fi indie
+genre_lo-fi jazzhop
+genre_lo-fi latino
+genre_lo-fi product
+genre_lo-fi rap
+genre_lo-fi sleep
+genre_lo-fi study
+genre_malaysian pop
+genre_mandopop
+genre_manitoba indie
+genre_melbourne bounce international
+genre_melodic drill
+genre_melodic dubstep
+genre_melodic metalcore
+genre_melodic rap
+genre_melodipop
+genre_meme
+genre_meme rap
+genre_memphis hip hop
+genre_metallic hardcore
+genre_metropopolis
+genre_minimal tech house
+genre_minneapolis indie
+genre_modern alternative pop
+genre_modern alternative rock
+genre_modern bollywood
+genre_modern dream pop
+genre_modern folk rock
+genre_modern indie folk
+genre_modern indie pop
+genre_modern rock
+genre_musica indigena latinoamericana
+genre_musica portuguesa contemporanea
+genre_nashville indie
+genre_nashville singer-songwriter
+genre_native american
+genre_neo mellow
+genre_neo soul
+genre_neon pop punk
+genre_new england americana
+genre_new french touch
+genre_new jersey indie
+genre_new romantic
+genre_new wave pop
+genre_newfoundland indie
+genre_nightcore
+genre_nightrun
+genre_noise pop
+genre_nordic house
+genre_norwegian house
+genre_norwegian pop
+genre_nu disco
+genre_nuevo folklore mexicano
+genre_nyc pop
+genre_nyc rap
+genre_nz hip hop
+genre_nz pop
+genre_odia bhajan
+genre_odia pop
+genre_ohio hip hop
+genre_orchestral soundtrack
+genre_otacore
+genre_oxford indie
+genre_pakistani electronic
+genre_pakistani hip hop
+genre_pakistani pop
+genre_permanent wave
+genre_persian electronic
+genre_persian pop
+genre_phonk brasileiro
+genre_piano rock
+genre_pinoy hip hop
+genre_pittsburgh rap
+genre_pixel
+genre_plugg
+genre_pluggnb
+genre_pop
+genre_pop dance
+genre_pop edm
+genre_pop folk
+genre_pop quebecois
+genre_pop r&b
+genre_pop rap
+genre_pop soul
+genre_post-grunge
+genre_post-teen pop
+genre_pov: indie
+genre_punjabi hip hop
+genre_punjabi pop
+genre_r&b
+genre_rage rap
+genre_rap rock
+genre_reggae fusion
+genre_reggaeton
+genre_romanian pop
+genre_russian drain
+genre_russian drill
+genre_russian pop
+genre_sad lo-fi
+genre_sad rap
+genre_scandipop
+genre_scorecore
+genre_scottish indie
+genre_shanty
+genre_shimmer pop
+genre_shimmer psych
+genre_show tunes
+genre_singaporean pop
+genre_singaporean singer-songwriter
+genre_singer-songwriter pop
+genre_slap house
+genre_sleaze rock
+genre_sleep
+genre_slowed and reverb
+genre_social media pop
+genre_solipsynthm
+genre_soul jazz
+genre_soundtrack
+genre_south african pop
+genre_sped up
+genre_speedrun
+genre_stomp and holler
+genre_stutter house
+genre_super eurobeat
+genre_swedish electropop
+genre_swedish pop
+genre_swedish singer-songwriter
+genre_swiss indie
+genre_swiss pop
+genre_tech house
+genre_teen pop
+genre_telugu indie
+genre_tempe indie
+genre_thai indie rock
+genre_toronto indie
+genre_trap
+genre_trap queen
+genre_traprun
+genre_trip hop
+genre_turkish edm
+genre_uk alternative hip hop
+genre_uk contemporary r&b
+genre_uk dance
+genre_uk hip hop
+genre_uk pop
+genre_ukrainian viral pop
+genre_vapor pop
+genre_vapor twitch
+genre_video game music
+genre_viral pop
+genre_viral rap
+genre_virginia indie
+genre_vocal trance
+genre_wave
+genre_weirdcore
+genre_wonky

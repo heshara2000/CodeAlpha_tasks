@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask Predict Test</title>
+</head>
+<body>
+    <h1>Test Flask Prediction Endpoint</h1>
+    <form action="/predict" method="post">
+        <textarea name="input_data" rows="20" cols="80">
+        [
+            {
+                "msPlayed": 123456,
+                "danceability": 0.5,
+                "energy": 0.8,
+                "key": 5,
+                "loudness": -6.0,
+                "mode": 1,
+                "speechiness": 0.05,
+                "acousticness": 0.1,
+                "instrumentalness": 0.0,
+                "liveness": 0.1,
+                "valence": 0.5,
+                "tempo": 120.0,
+                "duration_ms": 180000,
+                "time_signature": 4,
+                "genre": "genre_abstract"
+            }
+        ]
+        </textarea><br>
+        <button type="submit">Send Prediction</button>
+    </form>
+    <pre>{{ prediction_text }}</pre>
+</body>
+</html>
